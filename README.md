@@ -5,3 +5,4 @@ security machine learning
 + [Collection of Security and Network Data Resources](http://www.covert.io/data-links/)
 + [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 + [Deep Learning Security Papers](http://www.covert.io/deep-learning-security-papers/)
++ [ Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity#-datasets)
